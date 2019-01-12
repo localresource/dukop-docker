@@ -1,0 +1,4 @@
+build/web/conf/Gemfile
+build/web/conf/Gemfile.lock
+build/web/conf/database.yml
+dukop/
